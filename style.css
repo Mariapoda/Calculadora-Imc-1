@@ -2,8 +2,8 @@ body{
     text-align: center;
 }
 button{
-    font-size: 1rem;
-    color: white;
+    font-size: arial;
+    color: rgb(255, 147, 228);
     background-color: black;
     border-radius: 5px;
 }
